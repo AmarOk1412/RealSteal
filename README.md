@@ -2,4 +2,4 @@
 
 In progress.
 
-[tutorial](/images/screenshots/tutorial.png)
+![tutorial](/images/screenshots/tutorial.png)
